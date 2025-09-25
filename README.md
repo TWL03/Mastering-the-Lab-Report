@@ -10,6 +10,7 @@ A comprehensive guide to writing high-quality lab reports, designed to help stud
 Two versions of the guide are included in this repository:  
 - **Softcopy PDF** ([mastering_the_lab_report_softcopy.pdf](https://github.com/TWL03/Mastering-the-Lab-Report/blob/main/mastering_the_lab_report_softcopy.pdf)) — optimized for on-screen reading.  
 - **Print PDF** ([`mastering_the_lab_report_print.pdf`](https://github.com/TWL03/Mastering-the-Lab-Report/blob/main/mastering_the_lab_report_print.pdf)) — formatted for hardcopy printing and binding.  
+- **QR code** ([`QR.png`](https://github.com/TWL03/Mastering-the-Lab-Report/blob/main/QR.png)) — QR code that linked to this webpage.  
 
 ---
 ## Who this is for
