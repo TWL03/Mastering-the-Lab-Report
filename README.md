@@ -24,7 +24,7 @@ Two versions of the guide are included in this repository:
 - **Methodology:** Writing styles (paragraph, point-form, hybrid), calibration, data handling, and institutional practices.  
 - **Results & Discussion:** Figures, tables, units, scaling, narrative flow, and Compare–Explain–Assess framework.  
 - **Conclusions:** Distinction from abstracts, templates for strong closing statements, and practical checklists.  
-- **Appendices:** Supplementary material, sample reports, and style references.  
+- **Appendices:** QR code that linked to this webpage.  
 
 Emphasis is placed on:  
 1. **Clarity of communication** — concise, logically structured scientific writing.  
