@@ -11,7 +11,8 @@ Two versions of the guide are included in this repository:
 - **Softcopy PDF** ([mastering_the_lab_report_softcopy.pdf](https://github.com/TWL03/Mastering-the-Lab-Report/blob/main/mastering_the_lab_report_softcopy.pdf)) — optimized for on-screen reading.  
 - **Print PDF** ([`mastering_the_lab_report_print.pdf`](https://github.com/TWL03/Mastering-the-Lab-Report/blob/main/mastering_the_lab_report_print.pdf)) — formatted for hardcopy printing and binding.  
 - **QR code** ([`QR.png`](https://github.com/TWL03/Mastering-the-Lab-Report/blob/main/QR.png)) — QR code that linked to this webpage.  
-
+- **Lab Report Templete (Latex)** ([`Download .zip for LaTeX template`](https://github.com/TWL03/Mastering-the-Lab-Report/blob/main/Report%20Templete%20(Latex).zip)) - LaTeX has become much more user-friendly, thanks to AI. You’re encouraged to give it a try — it can greatly simplify your future research writing and even your Final Year Project (FYP) preparation.
+  
 ---
 ## Who this is for
 - Undergraduate students learning how to write lab reports
